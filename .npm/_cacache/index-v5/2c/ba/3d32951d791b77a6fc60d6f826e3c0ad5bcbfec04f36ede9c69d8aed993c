@@ -1,0 +1,2 @@
+
+0a8f7e4018fe1463b24db538b2830a974506e765	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/is-glob/-/is-glob-4.0.3.tgz","integrity":"sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg==","time":1725391210092,"size":4255,"metadata":{"time":1725391210091,"url":"https://npm.smarttbot.com/is-glob/-/is-glob-4.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:10 GMT"},"options":{"compress":true}}}

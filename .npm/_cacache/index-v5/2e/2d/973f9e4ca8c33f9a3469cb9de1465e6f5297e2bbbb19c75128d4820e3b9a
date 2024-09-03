@@ -1,0 +1,2 @@
+
+ac7d8321d615a7f3441539a4808d000038fc145e	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/iconv-lite/-/iconv-lite-0.6.3.tgz","integrity":"sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw==","time":1725391221621,"size":190667,"metadata":{"time":1725391221399,"url":"https://npm.smarttbot.com/iconv-lite/-/iconv-lite-0.6.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:21 GMT"},"options":{"compress":true}}}

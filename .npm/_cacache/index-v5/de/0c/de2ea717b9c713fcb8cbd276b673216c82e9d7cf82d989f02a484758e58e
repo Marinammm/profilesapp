@@ -1,0 +1,2 @@
+
+861b6789de5e5b201ed24fddcc46ffb28d3829c8	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/fast-xml-parser/-/fast-xml-parser-4.4.1.tgz","integrity":"sha512-xkjOecfnKGkSsOwtZ5Pz7Us/T6mrbPQrq0nh+aCO5V9nk5NLWmasAHumTKjiPJPWANe+kAZ84Jc8ooJkzZ88Sw==","time":1725391212382,"size":44168,"metadata":{"time":1725391212376,"url":"https://npm.smarttbot.com/fast-xml-parser/-/fast-xml-parser-4.4.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:12 GMT"},"options":{"compress":true}}}

@@ -1,0 +1,2 @@
+
+71e3f5c0698d384ef6fc0dc7d859ebe52d244457	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/eslint/-/eslint-9.9.1.tgz","integrity":"sha512-dHvhrbfr4xFQ9/dq+jcVneZMyRYLjggWjk6RVsIiHsP8Rz6yZ8LvZ//iU4TrZF+SXWG+JkNF2OyiZRvzgRDqMg==","time":1725391212834,"size":571764,"metadata":{"time":1725391212606,"url":"https://npm.smarttbot.com/eslint/-/eslint-9.9.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:12 GMT"},"options":{"compress":true}}}

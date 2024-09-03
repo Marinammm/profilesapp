@@ -1,0 +1,2 @@
+
+e71305f51202f0b59b1d560ecb9056b57e504eff	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/@nodelib%2ffs.stat/-/fs.stat-2.0.5.tgz","integrity":"sha512-RkhPPp2zrqDAQA/2jNhnztcPAlv64XdhIp7a7454A5ovI7Bukxgt7MX7udwAu3zg1DcpPU0rz3VV1SeaqvY4+A==","time":1725391215692,"size":4182,"metadata":{"time":1725391215684,"url":"https://npm.smarttbot.com/@nodelib%2ffs.stat/-/fs.stat-2.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:15 GMT"},"options":{"compress":true}}}

@@ -1,0 +1,2 @@
+
+57f047ee047e3e93fcf96b8a65cb994abd24a4b2	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/acorn/-/acorn-8.12.1.tgz","integrity":"sha512-tcpGyI9zbizT9JbV6oYE477V6mTlXvvi0T0G3SNIYE2apm/G5huBa1+K89VGeovbg+jycCrfhl3ADxErOuO6Jg==","time":1725391214240,"size":127429,"metadata":{"time":1725391214219,"url":"https://npm.smarttbot.com/acorn/-/acorn-8.12.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:14 GMT"},"options":{"compress":true}}}

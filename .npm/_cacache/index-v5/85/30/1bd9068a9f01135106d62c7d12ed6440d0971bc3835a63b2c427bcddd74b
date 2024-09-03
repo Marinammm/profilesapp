@@ -1,0 +1,2 @@
+
+51b223a3fe3465700f508900d2c16ff6732099d4	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/tmp/-/tmp-0.0.33.tgz","integrity":"sha512-jRCJlojKnZ3addtTOjdIqoRuPEKBvNXcGYqzO6zWZX8KfKEpnGY5jfggJQ3EjKuu8D4bJRr0y+cYJFmYbImXGw==","time":1725391207312,"size":8621,"metadata":{"time":1725391207004,"url":"https://npm.smarttbot.com/tmp/-/tmp-0.0.33.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:06 GMT"},"options":{"compress":true}}}

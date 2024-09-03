@@ -1,0 +1,2 @@
+
+b80af38aca30b75043ca7598578db4b54fbd2cea	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/lru-cache/-/lru-cache-7.18.3.tgz","integrity":"sha512-jumlc0BIUrS3qJGgIkWZsyfAM7NCWiBcCDhnd+3NNM5KbBmLTgHVfWBcg6W+rLUsIpzpERPsvwUP7CckAQSOoA==","time":1725391221284,"size":35235,"metadata":{"time":1725391221219,"url":"https://npm.smarttbot.com/lru-cache/-/lru-cache-7.18.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:21 GMT"},"options":{"compress":true}}}

@@ -1,0 +1,2 @@
+
+d9704d79637cbc053d7dba0450af5eed17493db4	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/csv-parse/-/csv-parse-5.5.6.tgz","integrity":"sha512-uNpm30m/AGSkLxxy7d9yRXpJQFrZzVWLFBkS+6ngPcZkw/5k3L/jjFuj7tVnEpRn+QgmiXr21nDlhCiUK4ij2A==","time":1725391213256,"size":276957,"metadata":{"time":1725391213226,"url":"https://npm.smarttbot.com/csv-parse/-/csv-parse-5.5.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:13 GMT"},"options":{"compress":true}}}

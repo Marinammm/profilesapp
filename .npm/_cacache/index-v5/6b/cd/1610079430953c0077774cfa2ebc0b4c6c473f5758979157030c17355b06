@@ -1,0 +1,2 @@
+
+0b4dcff40921db207cbd79bfc22be8905492ebf2	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/@aws-amplify%2fcli-core/-/cli-core-1.1.2.tgz","integrity":"sha512-CDoRR0v8ZePt6fS2uL3y5b7mt+7gxK3kmiBLKxkHa1MNgctSWFeWKh/OwYM9cWQm63IqAeGZP6IeX9hsw07Slw==","time":1725391219219,"size":29258,"metadata":{"time":1725391219216,"url":"https://npm.smarttbot.com/@aws-amplify%2fcli-core/-/cli-core-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:18 GMT"},"options":{"compress":true}}}

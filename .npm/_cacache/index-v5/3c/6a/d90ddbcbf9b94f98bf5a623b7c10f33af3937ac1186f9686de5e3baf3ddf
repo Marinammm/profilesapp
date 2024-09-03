@@ -1,0 +1,2 @@
+
+973cb420e166e6db348cc73cee482891d442d941	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/@graphql-tools%2fschema/-/schema-10.0.6.tgz","integrity":"sha512-EIJgPRGzpvDFEjVp+RF1zNNYIC36BYuIeZ514jFoJnI6IdxyVyIRDLx/ykgMdaa1pKQerpfdqDnsF4JnZoDHSQ==","time":1725391216095,"size":9341,"metadata":{"time":1725391216091,"url":"https://npm.smarttbot.com/@graphql-tools%2fschema/-/schema-10.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:16 GMT"},"options":{"compress":true}}}

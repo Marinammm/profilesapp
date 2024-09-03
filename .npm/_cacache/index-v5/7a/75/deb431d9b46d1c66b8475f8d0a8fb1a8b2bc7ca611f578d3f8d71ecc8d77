@@ -1,0 +1,2 @@
+
+175b289dd398a2321683291bf56964ef884d6eca	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/@typescript%2fvfs/-/vfs-1.3.6.tgz","integrity":"sha512-VSLn7rs46Qhe4gYxbK1/IB4NPLvgKl0I6SgeVyJwW5efYAELvDVqf1gVOG7JaKtW8qlMtBaZP02/4TRN39AkEQ==","time":1725391214239,"size":40835,"metadata":{"time":1725391214231,"url":"https://npm.smarttbot.com/@typescript%2fvfs/-/vfs-1.3.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:14 GMT"},"options":{"compress":true}}}

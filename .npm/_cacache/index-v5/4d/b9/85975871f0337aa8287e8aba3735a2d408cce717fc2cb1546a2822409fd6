@@ -1,0 +1,2 @@
+
+13f8a136b3286b22612430267c7ec8028d0755f0	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/bundle-name/-/bundle-name-3.0.0.tgz","integrity":"sha512-PKA4BeSvBpQKQ8iPOGCSiell+N8P+Tf1DlwqmYhpe2gAhKPHn8EYOxVT+ShuGmhg8lN8XiSlS80yiExKXrURlw==","time":1725391213677,"size":1678,"metadata":{"time":1725391213669,"url":"https://npm.smarttbot.com/bundle-name/-/bundle-name-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:13 GMT"},"options":{"compress":true}}}

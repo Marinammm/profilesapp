@@ -1,0 +1,2 @@
+
+bbf1fee6918cb9f24ced6a11f59e73bacb52fa59	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/node-releases/-/node-releases-2.0.18.tgz","integrity":"sha512-d9VeXT4SJ7ZeOqGX6R5EM022wpL+eWPooLI+5UpWn2jCT1aosUQEhQP214x33Wkwx3JQMvIm+tIoVOdodFS40g==","time":1725391208890,"size":4792,"metadata":{"time":1725391208889,"url":"https://npm.smarttbot.com/node-releases/-/node-releases-2.0.18.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:08 GMT"},"options":{"compress":true}}}

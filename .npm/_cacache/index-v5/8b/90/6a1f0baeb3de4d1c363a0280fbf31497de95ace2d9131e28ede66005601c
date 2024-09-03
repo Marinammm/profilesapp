@@ -1,0 +1,2 @@
+
+53c5dee079c80ca84dc94340f342eb8de8fd4dd2	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/tslib/-/tslib-1.14.1.tgz","integrity":"sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==","time":1725391221977,"size":7605,"metadata":{"time":1725391221972,"url":"https://npm.smarttbot.com/tslib/-/tslib-1.14.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:21 GMT"},"options":{"compress":true}}}

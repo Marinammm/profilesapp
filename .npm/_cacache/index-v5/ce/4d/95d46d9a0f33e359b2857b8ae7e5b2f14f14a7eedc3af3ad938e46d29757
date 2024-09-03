@@ -1,0 +1,2 @@
+
+26edfa7bc0e5cfec438ec4afec48af66007758ec	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/debug/-/debug-4.3.4.tgz","integrity":"sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==","time":1725391221263,"size":13252,"metadata":{"time":1725391221255,"url":"https://npm.smarttbot.com/debug/-/debug-4.3.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:21 GMT"},"options":{"compress":true}}}

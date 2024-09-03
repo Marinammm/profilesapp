@@ -1,0 +1,2 @@
+
+8d20f710bb0d4f57bf9c40a3172003900e94d071	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/rollup/-/rollup-4.21.2.tgz","integrity":"sha512-e3TapAgYf9xjdLvKQCkQTnbTKd4a6jwlpQSJJFokHGaX2IVjoEqkIIhiQfqsi0cdwlOD+tQGuOd5AJkc5RngBw==","time":1725391208505,"size":460065,"metadata":{"time":1725391207895,"url":"https://npm.smarttbot.com/rollup/-/rollup-4.21.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:07 GMT"},"options":{"compress":true}}}

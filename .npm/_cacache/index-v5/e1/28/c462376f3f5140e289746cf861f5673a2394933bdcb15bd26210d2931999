@@ -1,0 +1,2 @@
+
+a6bf8e40fd3eddaf1ea927204582d0da281fa714	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/cross-fetch/-/cross-fetch-3.1.8.tgz","integrity":"sha512-cvA+JwZoU0Xq+h6WkMvAUqPEYy92Obet6UdKLfW60qn99ftItKjB5T+BkyWOFWe2pUyfQ+IJHmpOTznqk1M6Kg==","time":1725391213303,"size":19230,"metadata":{"time":1725391213296,"url":"https://npm.smarttbot.com/cross-fetch/-/cross-fetch-3.1.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:13 GMT"},"options":{"compress":true}}}

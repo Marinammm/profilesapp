@@ -1,0 +1,2 @@
+
+ae43ea93ffafdc1478bf8ec278ece2095b237698	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz","integrity":"sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg==","time":1725391222101,"size":7823,"metadata":{"time":1725391222096,"url":"https://npm.smarttbot.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:21 GMT"},"options":{"compress":true}}}

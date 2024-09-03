@@ -1,0 +1,2 @@
+
+c837443beee300ba0394ea274f1d978048591bdb	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/is-regex/-/is-regex-1.1.4.tgz","integrity":"sha512-kvRdxDsxZjhzUX07ZnLydzS1TU/TJlTUHHY4YLL87e37oUA49DfkLqgy+VjFocowy29cKvcSiu+kIv728jTTVg==","time":1725391209961,"size":10555,"metadata":{"time":1725391209959,"url":"https://npm.smarttbot.com/is-regex/-/is-regex-1.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:09 GMT"},"options":{"compress":true}}}

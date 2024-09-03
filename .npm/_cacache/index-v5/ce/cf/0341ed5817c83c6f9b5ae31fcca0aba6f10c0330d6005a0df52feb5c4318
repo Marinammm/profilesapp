@@ -1,0 +1,2 @@
+
+d5cd30c5308972ce04701cc19ab34b3dc06781b2	{"key":"make-fetch-happen:request-cache:https://npm.smarttbot.com/bowser/-/bowser-2.11.0.tgz","integrity":"sha512-AlcaJBi/pqqJBIQ8U9Mcpc9i8Aqxn88Skv5d+xBX006BY5u8N3mGLHa5Lgppa7L/HfwgwLgZ6NYs+Ag6uUmJRA==","time":1725391213818,"size":59062,"metadata":{"time":1725391213801,"url":"https://npm.smarttbot.com/bowser/-/bowser-2.11.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"application/octet-stream; charset=utf-8","date":"Tue, 03 Sep 2024 19:20:13 GMT"},"options":{"compress":true}}}
